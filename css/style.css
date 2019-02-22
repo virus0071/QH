@@ -196,6 +196,12 @@ transform: perspective(120px) rotateX(-180deg) rotateY(-179.9deg);
 #intro h4 {
 	padding-bottom: 16px;
 }
+
+#speech{
+	background: url('../images/4.jpg') 50% 0 repeat-y fixed;
+	text-align: left;
+	padding-left:30%;
+	}
 /* work section */
 #work {
 	background-color: #ffffff;
